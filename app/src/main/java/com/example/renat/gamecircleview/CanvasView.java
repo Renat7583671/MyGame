@@ -26,7 +26,7 @@ public class CanvasView extends View implements ICanvasView{
         intWiedhtAndHeight(context);
         initPaint();
 
-// разница в располажение строк
+
         gameManager = new GameManager(this,wiedht,height);
 
 

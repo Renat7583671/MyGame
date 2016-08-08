@@ -6,7 +6,7 @@ import android.graphics.Color;
 public class MainCircle extends SimplelCircle {
 
     public static final int INTIT_RADIUS = 50;
-    public static final int MAX_SPEED = 70;
+    public static final int MAX_SPEED = 40;
     public static final int OUT_COLOR = Color.GREEN;
 
     public MainCircle(int x, int y) {
